@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **SlevinKl/Slevinkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi guys👋, I'm Rayane 🤙
+🚀 I started learning to code @ Le Wagon in April 2022, which was the best decision of my life. I love coding.
+🔭 I’m currently working on several projects
+🌱 I’m currently learning Ruby on Rails, HTML & CSS and also React 🔥
+📫 How to reach me: moula.rayane@gmail.com
