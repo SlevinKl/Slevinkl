@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi guys👋, I'm Rayane 🤙
+<strong>Hi guys👋, I'm Rayane 🤙
 
 -🚀 I started learning to code @ Le Wagon in April 2022, which was the best decision of my life. I love coding.
 
@@ -23,4 +23,4 @@ Hi guys👋, I'm Rayane 🤙
 
 -🌱 I’m currently learning Ruby on Rails, HTML & CSS and also React 🔥.
 
--📫 How to reach me: moula.rayane@gmail.com 
+-📫 How to reach me: moula.rayane@gmail.com </strong>
