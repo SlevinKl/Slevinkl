@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 -🔭 I’m currently working on several projects.
 
--🌱 I’m currently learning Ruby on Rails, HTML & CSS and also React 🔥.
+-🌱 I’m currently learning Ruby on Rails, JavaScript, Stimulus, HTML & CSS and also React 🔥.
 
 -📫 How to reach me: moula.rayane@gmail.com </strong>
 
