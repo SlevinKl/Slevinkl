@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi guys👋, I'm Rayane 🤙
 <h3 align="center">A passionate Full-Stack developer from Paris</h3>
 
--🚀 I started learning to code @ Le Wagon in April 2022, which was the best decision of my life. I love coding.
+-🚀 I started learning to code @ Le Wagon, which was the best decision of my life. I love coding.
 
 -🔭 I’m currently working on several projects.
 
