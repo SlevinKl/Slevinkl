@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center"> Hi guys👋, I'm Rayane 🤙
 <h3 align="center">A passionate Full-Stack developer from Paris</h3>
@@ -30,3 +30,4 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/rayane-m-648186198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moula.rayane" height="30" width="40" /></a>
 </p>
+-->
