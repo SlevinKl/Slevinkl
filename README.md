@@ -32,7 +32,17 @@ Connect with me:
 </p>
 -->
 
-<h1 align="center">Github Stats ![GIF](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)</h1>
+<h1 align="center"> Hi guys👋, I'm Rayane 🤙
+<h3 align="center">A passionate Full-Stack developer from Paris</h3>
+
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/rayane-m-648186198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moula.rayane" height="30" width="40" /></a>
+</p>
+
+## Github Stats 
+
+<img style="width: 35px;" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"/>
 
 ![SlevinKl's Stats](https://github-readme-stats.vercel.app/api?username=SlevinKl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
