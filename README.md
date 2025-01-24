@@ -43,9 +43,11 @@ Connect with me:
 ## <img style="width: 35px;" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"/> Github Stats 
 
 <div class="d-flex flex-justify-between">
+
 ![SlevinKl's Stats](https://github-readme-stats.vercel.app/api?username=SlevinKl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![SlevinKl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlevinKl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 <!--
